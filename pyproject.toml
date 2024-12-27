@@ -1,0 +1,11 @@
+[tool.poetry]
+name = "yamtimes"
+version = "0.0.1"
+description = "Modern Date and Time Handling library for Python"
+authors = ["svidaniya"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+python-dateutil = "2.9.0.post0"
+six = "1.17.0"
+

@@ -1,0 +1,5 @@
+from .yamtimes import YamTimes
+
+__version__ = '0.0.1'
+
+__all__ = ['YamTimes']
